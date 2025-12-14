@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mtinet.github.io/seongshim/index.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://mtinet.github.io/seongshim/#services</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://mtinet.github.io/seongshim/#portfolio</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://mtinet.github.io/seongshim/#about</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://mtinet.github.io/seongshim/#contact</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>

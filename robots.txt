@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://mtinet.github.io/seongshim/sitemap.xml
